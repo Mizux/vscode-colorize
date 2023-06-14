@@ -18,7 +18,7 @@ This project is forked from [kamikillerto.vscode-colorize](https://github.com/Ka
 
 My Version start from: v0.12.0
 
-- fix issues: #417, #503, #574, #731
+- fix issues: KamiKillertO/vscode-colorize#417, KamiKillertO/vscode-colorize#503, KamiKillertO/vscode-colorize#574, KamiKillertO/vscode-colorize#731
 
 ## Features
 
